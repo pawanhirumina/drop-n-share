@@ -1,4 +1,10 @@
-# 📤 Drop & Share (Dragnshare)
+
+
+
+# 📤 Drop & Share
+<img width="100%" height="auto" alt="screenshot-rocks" src="https://github.com/user-attachments/assets/bda6a66d-b36a-49c4-8083-496d0754cb25" />
+
+---
 
 > **Simple, meaningful, and temporary file sharing.**  
 > Upload files, get a 6-digit code, and share it. No logins, no hassle.
