@@ -4,7 +4,7 @@
 # 📤 Drop & Share
 
 
-<img width="100%" height="auto" alt="screenshot-rocks" src="https://github.com/user-attachments/assets/a4c7708d-bd9a-48a4-930e-99da1e2995a4" />
+<img width="100%" height="auto" alt="screenshot-rocks" src="https://github.com/user-attachments/assets/63b6cd20-caed-4ae7-9c86-190de987685b" />
 
 ---
 
